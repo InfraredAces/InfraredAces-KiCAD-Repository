@@ -8,9 +8,9 @@
     },
     "name": "Yanndroid's KiCAD repository",
     "packages": {
-        "sha256": "8d5500ddc4109a36dbff870ee498979e635c50eeebd6592539414fa9338d4cd9",
-        "update_time_utc": "2023-07-16 15:21:27",
-        "update_timestamp": 1689513687,
+        "sha256": "4d43d9c3850f466840e0aa0dae04dc69d70285dbcf45527143a4f2fb32af9050",
+        "update_time_utc": "2023-07-16 17:21:23",
+        "update_timestamp": 1689528083,
         "url": "https://raw.githubusercontent.com/Yanndroid/Yanndroid-KiCAD-Repository/master/packages.json"
     },
     "resources": {

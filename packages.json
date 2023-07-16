@@ -23,7 +23,17 @@
             "resources": {
                 "homepage": "https://github.com/Yanndroid/KiCAD-EasyEDA-Parts"
             },
-            "versions": []
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "242b2e101684329bf5250fdba670452c745c4b96621cd7abf3c59bc56041b3a8",
+                    "download_size": 7686,
+                    "download_url": "https://github.com/Yanndroid/KiCAD-EasyEDA-Parts/releases/download/1.0.0/KiCAD-PCM-1.0.0.zip",
+                    "install_size": 15243
+                }
+            ]
         }
     ]
 }
