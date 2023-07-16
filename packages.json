@@ -1,0 +1,29 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "KiCAD EasyEDA Parts",
+            "description": "Download EasyEDA parts and convert them for KiCAD",
+            "description_full": "This plugin allows you to download EasyEDA footprints, symbols and 3d models and convert them for KiCAD.",
+            "identifier": "com.github.yanndroid.kicad-easyeda-parts",
+            "type": "plugin",
+            "author": {
+                "name": "Yanndroid",
+                "contact": {
+                    "web": "https://github.com/Yanndroid"
+                }
+            },
+            "maintainer": {
+                "name": "Yanndroid",
+                "contact": {
+                    "web": "https://github.com/Yanndroid"
+                }
+            },
+            "license": "MIT",
+            "resources": {
+                "homepage": "https://github.com/Yanndroid/KiCAD-EasyEDA-Parts"
+            },
+            "versions": []
+        }
+    ]
+}

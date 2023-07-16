@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "Yanndroid",
+        "contact": {
+            "web": "https://github.com/Yanndroid"
+        }
+    },
+    "name": "Yanndroid's KiCAD repository",
+    "packages": {
+        "sha256": "8d5500ddc4109a36dbff870ee498979e635c50eeebd6592539414fa9338d4cd9",
+        "update_time_utc": "2023-07-16 15:21:27",
+        "update_timestamp": 1689513687,
+        "url": "https://raw.githubusercontent.com/Yanndroid/Yanndroid-KiCAD-Repository/master/packages.json"
+    },
+    "resources": {
+        "sha256": "1ac1e513633676a696ec3c21d4968d62d26b0dec576cc2139762d767aaec8d48",
+        "update_time_utc": "2023-07-16 15:21:27",
+        "update_timestamp": 1689513687,
+        "url": "https://github.com/Yanndroid/Yanndroid-KiCAD-Repository/raw/master/resources.zip"
+    }
+}
