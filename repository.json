@@ -1,22 +1,22 @@
 {
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
-        "name": "Yanndroid",
+        "name": "InfraredAces",
         "contact": {
-            "web": "https://github.com/Yanndroid"
+            "web": "https://github.com/InfraredAces"
         }
     },
-    "name": "Yanndroid's KiCAD repository",
+    "name": "InfraredAces's KiCAD repository",
     "packages": {
         "sha256": "4d43d9c3850f466840e0aa0dae04dc69d70285dbcf45527143a4f2fb32af9050",
         "update_time_utc": "2023-07-16 17:21:23",
         "update_timestamp": 1689528083,
-        "url": "https://raw.githubusercontent.com/Yanndroid/Yanndroid-KiCAD-Repository/master/packages.json"
+        "url": "https://raw.githubusercontent.com/InfraredAces/InfraredAces-KiCAD-Repository/master/packages.json"
     },
     "resources": {
         "sha256": "1ac1e513633676a696ec3c21d4968d62d26b0dec576cc2139762d767aaec8d48",
         "update_time_utc": "2023-07-16 15:21:27",
         "update_timestamp": 1689513687,
-        "url": "https://github.com/Yanndroid/Yanndroid-KiCAD-Repository/raw/master/resources.zip"
+        "url": "https://github.com/InfraredAces/InfraredAces-KiCAD-Repository/raw/master/resources.zip"
     }
 }
