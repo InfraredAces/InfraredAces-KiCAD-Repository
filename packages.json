@@ -32,6 +32,15 @@
                     "download_size": 7686,
                     "download_url": "https://github.com/InfraredAces/KiCAD-EasyEDA-Parts/releases/download/1.0.1/KiCAD-PCM-1.0.1.zip",
                     "install_size": 15243
+                },
+                {
+                    "version": "1.0.2",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "6284d75fdc18a9bfeafa2447a8553e54ab07da5758eea7d3b8c3f2f15b0f7720",
+                    "download_size": 7707,
+                    "download_url": "https://github.com/InfraredAces/KiCAD-EasyEDA-Parts/releases/download/1.0.2/KiCAD-PCM-1.0.2.zip",
+                    "install_size": 15284
                 }
             ]
         }
