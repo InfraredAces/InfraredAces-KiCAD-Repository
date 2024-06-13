@@ -8,9 +8,9 @@
     },
     "name": "InfraredAces's KiCAD repository",
     "packages": {
-        "sha256": "6e585295aa5a059b4d7b635bb133f9e2ed145c6fcaee347a0357b344a3c02eff",
-        "update_time_utc": "2024-06-03 06:58:57",
-        "update_timestamp": 1717397937,
+        "sha256": "0c57178ce21927c6ce8028dcfbaab0f4ab451445a6f4ea2041e85f867db47629",
+        "update_time_utc": "2024-06-13 18:00:30",
+        "update_timestamp": 1718301630,
         "url": "https://raw.githubusercontent.com/InfraredAces/InfraredAces-KiCAD-Repository/master/packages.json"
     },
     "resources": {
